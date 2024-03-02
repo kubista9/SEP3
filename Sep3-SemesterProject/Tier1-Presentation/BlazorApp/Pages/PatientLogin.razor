@@ -1,0 +1,73 @@
+@page "/Patient/Login"
+@using Domain.DTOs
+@using BlazorApp.Services
+@inject IAuthService authService
+@inject NavigationManager navMgr
+
+<AuthorizeView>
+    <NotAuthorized>
+        <body>
+        <div class="user">
+            <h3 class="user__title">Patients Login</h3>
+        
+            <form class="form">
+                <div class="form__group">
+                    <input type="text" placeholder="Username" class="form__input" @bind="userName"/>
+                </div>
+                        
+                <div class="form__group">
+                    <input type="password" placeholder="Password" class="form__input" @bind="password"/>
+                </div>
+        
+                <button class="loginbtn" type="button" @onclick="LoginAsync">Log in</button>
+                 </form>
+            <form>
+                <p class="user__title">Not registered yet?</p>
+                <button class="loginbtn" type="button" @onclick="PatientRegister">Register</button>
+            </form>
+            @if (!string.IsNullOrEmpty(errorLabel))
+            {
+                <div class="field">
+                    <label style="color: red">
+                        @errorLabel
+                    </label>
+                </div>
+            }
+        </div>
+        </body>
+    </NotAuthorized>
+    <Authorized>
+        <div class="card">
+            <h3>Hello, @context.User.Identity.Name</h3>
+        </div>
+    </Authorized>
+</AuthorizeView>
+
+@code {
+    private string userName;
+    private string password;
+    private string errorLabel;
+
+    private async Task LoginAsync()
+    {
+        errorLabel = "";
+        try
+        {
+            LoginDto dto = new LoginDto(userName, password);
+            
+            await authService.LoginPatientAsync(dto);
+            navMgr.NavigateTo("/Patient/Login");
+        }
+        catch (Exception e)
+        {
+            Console.WriteLine(e);
+            errorLabel = $"Error: {e.Message}";
+        }
+    }
+
+    private void PatientRegister()
+    {
+        navMgr.NavigateTo("/Patient/Register");
+    }
+    
+}

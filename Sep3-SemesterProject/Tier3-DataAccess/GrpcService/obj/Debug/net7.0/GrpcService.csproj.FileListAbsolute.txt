@@ -1,0 +1,350 @@
+C:/Users/warsar/IdeaProjects/proofOfConcept_v4/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/appsettings.Development.json
+C:/Users/warsar/IdeaProjects/proofOfConcept_v4/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/appsettings.json
+C:/Users/warsar/IdeaProjects/proofOfConcept_v4/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/GrpcService.exe
+C:/Users/warsar/IdeaProjects/proofOfConcept_v4/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/GrpcService.deps.json
+C:/Users/warsar/IdeaProjects/proofOfConcept_v4/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/GrpcService.runtimeconfig.json
+C:/Users/warsar/IdeaProjects/proofOfConcept_v4/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/GrpcService.dll
+C:/Users/warsar/IdeaProjects/proofOfConcept_v4/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/GrpcService.pdb
+C:/Users/warsar/IdeaProjects/proofOfConcept_v4/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/Google.Protobuf.dll
+C:/Users/warsar/IdeaProjects/proofOfConcept_v4/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/Grpc.AspNetCore.Server.dll
+C:/Users/warsar/IdeaProjects/proofOfConcept_v4/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/Grpc.AspNetCore.Server.ClientFactory.dll
+C:/Users/warsar/IdeaProjects/proofOfConcept_v4/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/Grpc.Core.Api.dll
+C:/Users/warsar/IdeaProjects/proofOfConcept_v4/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/Grpc.Net.Client.dll
+C:/Users/warsar/IdeaProjects/proofOfConcept_v4/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/Grpc.Net.ClientFactory.dll
+C:/Users/warsar/IdeaProjects/proofOfConcept_v4/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/Grpc.Net.Common.dll
+C:/Users/warsar/IdeaProjects/proofOfConcept_v4/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/Microsoft.Data.Sqlite.dll
+C:/Users/warsar/IdeaProjects/proofOfConcept_v4/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/warsar/IdeaProjects/proofOfConcept_v4/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/warsar/IdeaProjects/proofOfConcept_v4/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/warsar/IdeaProjects/proofOfConcept_v4/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Sqlite.dll
+C:/Users/warsar/IdeaProjects/proofOfConcept_v4/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+C:/Users/warsar/IdeaProjects/proofOfConcept_v4/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/SQLitePCLRaw.batteries_v2.dll
+C:/Users/warsar/IdeaProjects/proofOfConcept_v4/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/SQLitePCLRaw.core.dll
+C:/Users/warsar/IdeaProjects/proofOfConcept_v4/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/SQLitePCLRaw.provider.e_sqlite3.dll
+C:/Users/warsar/IdeaProjects/proofOfConcept_v4/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/runtimes/alpine-arm/native/libe_sqlite3.so
+C:/Users/warsar/IdeaProjects/proofOfConcept_v4/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/runtimes/alpine-arm64/native/libe_sqlite3.so
+C:/Users/warsar/IdeaProjects/proofOfConcept_v4/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/runtimes/alpine-x64/native/libe_sqlite3.so
+C:/Users/warsar/IdeaProjects/proofOfConcept_v4/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/runtimes/browser-wasm/nativeassets/net7.0/e_sqlite3.a
+C:/Users/warsar/IdeaProjects/proofOfConcept_v4/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/runtimes/linux-arm/native/libe_sqlite3.so
+C:/Users/warsar/IdeaProjects/proofOfConcept_v4/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/runtimes/linux-arm64/native/libe_sqlite3.so
+C:/Users/warsar/IdeaProjects/proofOfConcept_v4/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/runtimes/linux-armel/native/libe_sqlite3.so
+C:/Users/warsar/IdeaProjects/proofOfConcept_v4/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/runtimes/linux-mips64/native/libe_sqlite3.so
+C:/Users/warsar/IdeaProjects/proofOfConcept_v4/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/runtimes/linux-musl-arm/native/libe_sqlite3.so
+C:/Users/warsar/IdeaProjects/proofOfConcept_v4/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/runtimes/linux-musl-arm64/native/libe_sqlite3.so
+C:/Users/warsar/IdeaProjects/proofOfConcept_v4/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+C:/Users/warsar/IdeaProjects/proofOfConcept_v4/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/runtimes/linux-ppc64le/native/libe_sqlite3.so
+C:/Users/warsar/IdeaProjects/proofOfConcept_v4/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/runtimes/linux-s390x/native/libe_sqlite3.so
+C:/Users/warsar/IdeaProjects/proofOfConcept_v4/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/runtimes/linux-x64/native/libe_sqlite3.so
+C:/Users/warsar/IdeaProjects/proofOfConcept_v4/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/runtimes/linux-x86/native/libe_sqlite3.so
+C:/Users/warsar/IdeaProjects/proofOfConcept_v4/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/runtimes/maccatalyst-arm64/native/libe_sqlite3.dylib
+C:/Users/warsar/IdeaProjects/proofOfConcept_v4/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/runtimes/maccatalyst-x64/native/libe_sqlite3.dylib
+C:/Users/warsar/IdeaProjects/proofOfConcept_v4/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/runtimes/osx-arm64/native/libe_sqlite3.dylib
+C:/Users/warsar/IdeaProjects/proofOfConcept_v4/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+C:/Users/warsar/IdeaProjects/proofOfConcept_v4/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/runtimes/win-arm/native/e_sqlite3.dll
+C:/Users/warsar/IdeaProjects/proofOfConcept_v4/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/runtimes/win-arm64/native/e_sqlite3.dll
+C:/Users/warsar/IdeaProjects/proofOfConcept_v4/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/runtimes/win-x64/native/e_sqlite3.dll
+C:/Users/warsar/IdeaProjects/proofOfConcept_v4/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/runtimes/win-x86/native/e_sqlite3.dll
+C:/Users/warsar/IdeaProjects/proofOfConcept_v4/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/Domain.dll
+C:/Users/warsar/IdeaProjects/proofOfConcept_v4/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/EFC.dll
+C:/Users/warsar/IdeaProjects/proofOfConcept_v4/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/EFC.pdb
+C:/Users/warsar/IdeaProjects/proofOfConcept_v4/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/Domain.pdb
+C:/Users/warsar/IdeaProjects/proofOfConcept_v4/Tier3-DataAccess/GrpcService/obj/Debug/net7.0/GrpcService.csproj.AssemblyReference.cache
+C:/Users/warsar/IdeaProjects/proofOfConcept_v4/Tier3-DataAccess/GrpcService/obj/Debug/net7.0/GrpcService.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/warsar/IdeaProjects/proofOfConcept_v4/Tier3-DataAccess/GrpcService/obj/Debug/net7.0/GrpcService.AssemblyInfoInputs.cache
+C:/Users/warsar/IdeaProjects/proofOfConcept_v4/Tier3-DataAccess/GrpcService/obj/Debug/net7.0/GrpcService.AssemblyInfo.cs
+C:/Users/warsar/IdeaProjects/proofOfConcept_v4/Tier3-DataAccess/GrpcService/obj/Debug/net7.0/GrpcService.csproj.CoreCompileInputs.cache
+C:/Users/warsar/IdeaProjects/proofOfConcept_v4/Tier3-DataAccess/GrpcService/obj/Debug/net7.0/GrpcService.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/warsar/IdeaProjects/proofOfConcept_v4/Tier3-DataAccess/GrpcService/obj/Debug/net7.0/staticwebassets/msbuild.GrpcService.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/warsar/IdeaProjects/proofOfConcept_v4/Tier3-DataAccess/GrpcService/obj/Debug/net7.0/staticwebassets/msbuild.build.GrpcService.props
+C:/Users/warsar/IdeaProjects/proofOfConcept_v4/Tier3-DataAccess/GrpcService/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.GrpcService.props
+C:/Users/warsar/IdeaProjects/proofOfConcept_v4/Tier3-DataAccess/GrpcService/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.GrpcService.props
+C:/Users/warsar/IdeaProjects/proofOfConcept_v4/Tier3-DataAccess/GrpcService/obj/Debug/net7.0/staticwebassets.pack.json
+C:/Users/warsar/IdeaProjects/proofOfConcept_v4/Tier3-DataAccess/GrpcService/obj/Debug/net7.0/staticwebassets.build.json
+C:/Users/warsar/IdeaProjects/proofOfConcept_v4/Tier3-DataAccess/GrpcService/obj/Debug/net7.0/staticwebassets.development.json
+C:/Users/warsar/IdeaProjects/proofOfConcept_v4/Tier3-DataAccess/GrpcService/obj/Debug/net7.0/scopedcss/bundle/GrpcService.styles.css
+C:/Users/warsar/IdeaProjects/proofOfConcept_v4/Tier3-DataAccess/GrpcService/obj/Debug/net7.0/GrpcService.csproj.CopyComplete
+C:/Users/warsar/IdeaProjects/proofOfConcept_v4/Tier3-DataAccess/GrpcService/obj/Debug/net7.0/GrpcService.dll
+C:/Users/warsar/IdeaProjects/proofOfConcept_v4/Tier3-DataAccess/GrpcService/obj/Debug/net7.0/refint/GrpcService.dll
+C:/Users/warsar/IdeaProjects/proofOfConcept_v4/Tier3-DataAccess/GrpcService/obj/Debug/net7.0/GrpcService.pdb
+C:/Users/warsar/IdeaProjects/proofOfConcept_v4/Tier3-DataAccess/GrpcService/obj/Debug/net7.0/GrpcService.genruntimeconfig.cache
+C:/Users/warsar/IdeaProjects/proofOfConcept_v4/Tier3-DataAccess/GrpcService/obj/Debug/net7.0/ref/GrpcService.dll
+C:/Users/Acer/Downloads/proofOfConcept_v4/proofOfConcept_v4/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/appsettings.Development.json
+C:/Users/Acer/Downloads/proofOfConcept_v4/proofOfConcept_v4/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/appsettings.json
+C:/Users/Acer/Downloads/proofOfConcept_v4/proofOfConcept_v4/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/GrpcService.exe
+C:/Users/Acer/Downloads/proofOfConcept_v4/proofOfConcept_v4/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/GrpcService.deps.json
+C:/Users/Acer/Downloads/proofOfConcept_v4/proofOfConcept_v4/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/GrpcService.runtimeconfig.json
+C:/Users/Acer/Downloads/proofOfConcept_v4/proofOfConcept_v4/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/GrpcService.dll
+C:/Users/Acer/Downloads/proofOfConcept_v4/proofOfConcept_v4/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/GrpcService.pdb
+C:/Users/Acer/Downloads/proofOfConcept_v4/proofOfConcept_v4/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/Google.Protobuf.dll
+C:/Users/Acer/Downloads/proofOfConcept_v4/proofOfConcept_v4/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/Grpc.AspNetCore.Server.dll
+C:/Users/Acer/Downloads/proofOfConcept_v4/proofOfConcept_v4/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/Grpc.AspNetCore.Server.ClientFactory.dll
+C:/Users/Acer/Downloads/proofOfConcept_v4/proofOfConcept_v4/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/Grpc.Core.Api.dll
+C:/Users/Acer/Downloads/proofOfConcept_v4/proofOfConcept_v4/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/Grpc.Net.Client.dll
+C:/Users/Acer/Downloads/proofOfConcept_v4/proofOfConcept_v4/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/Grpc.Net.ClientFactory.dll
+C:/Users/Acer/Downloads/proofOfConcept_v4/proofOfConcept_v4/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/Grpc.Net.Common.dll
+C:/Users/Acer/Downloads/proofOfConcept_v4/proofOfConcept_v4/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/Microsoft.Data.Sqlite.dll
+C:/Users/Acer/Downloads/proofOfConcept_v4/proofOfConcept_v4/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/Acer/Downloads/proofOfConcept_v4/proofOfConcept_v4/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/Acer/Downloads/proofOfConcept_v4/proofOfConcept_v4/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/Acer/Downloads/proofOfConcept_v4/proofOfConcept_v4/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Sqlite.dll
+C:/Users/Acer/Downloads/proofOfConcept_v4/proofOfConcept_v4/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+C:/Users/Acer/Downloads/proofOfConcept_v4/proofOfConcept_v4/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/SQLitePCLRaw.batteries_v2.dll
+C:/Users/Acer/Downloads/proofOfConcept_v4/proofOfConcept_v4/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/SQLitePCLRaw.core.dll
+C:/Users/Acer/Downloads/proofOfConcept_v4/proofOfConcept_v4/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/SQLitePCLRaw.provider.e_sqlite3.dll
+C:/Users/Acer/Downloads/proofOfConcept_v4/proofOfConcept_v4/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/runtimes/alpine-arm/native/libe_sqlite3.so
+C:/Users/Acer/Downloads/proofOfConcept_v4/proofOfConcept_v4/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/runtimes/alpine-arm64/native/libe_sqlite3.so
+C:/Users/Acer/Downloads/proofOfConcept_v4/proofOfConcept_v4/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/runtimes/alpine-x64/native/libe_sqlite3.so
+C:/Users/Acer/Downloads/proofOfConcept_v4/proofOfConcept_v4/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/runtimes/browser-wasm/nativeassets/net7.0/e_sqlite3.a
+C:/Users/Acer/Downloads/proofOfConcept_v4/proofOfConcept_v4/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/runtimes/linux-arm/native/libe_sqlite3.so
+C:/Users/Acer/Downloads/proofOfConcept_v4/proofOfConcept_v4/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/runtimes/linux-arm64/native/libe_sqlite3.so
+C:/Users/Acer/Downloads/proofOfConcept_v4/proofOfConcept_v4/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/runtimes/linux-armel/native/libe_sqlite3.so
+C:/Users/Acer/Downloads/proofOfConcept_v4/proofOfConcept_v4/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/runtimes/linux-mips64/native/libe_sqlite3.so
+C:/Users/Acer/Downloads/proofOfConcept_v4/proofOfConcept_v4/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/runtimes/linux-musl-arm/native/libe_sqlite3.so
+C:/Users/Acer/Downloads/proofOfConcept_v4/proofOfConcept_v4/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/runtimes/linux-musl-arm64/native/libe_sqlite3.so
+C:/Users/Acer/Downloads/proofOfConcept_v4/proofOfConcept_v4/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+C:/Users/Acer/Downloads/proofOfConcept_v4/proofOfConcept_v4/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/runtimes/linux-ppc64le/native/libe_sqlite3.so
+C:/Users/Acer/Downloads/proofOfConcept_v4/proofOfConcept_v4/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/runtimes/linux-s390x/native/libe_sqlite3.so
+C:/Users/Acer/Downloads/proofOfConcept_v4/proofOfConcept_v4/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/runtimes/linux-x64/native/libe_sqlite3.so
+C:/Users/Acer/Downloads/proofOfConcept_v4/proofOfConcept_v4/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/runtimes/linux-x86/native/libe_sqlite3.so
+C:/Users/Acer/Downloads/proofOfConcept_v4/proofOfConcept_v4/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/runtimes/maccatalyst-arm64/native/libe_sqlite3.dylib
+C:/Users/Acer/Downloads/proofOfConcept_v4/proofOfConcept_v4/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/runtimes/maccatalyst-x64/native/libe_sqlite3.dylib
+C:/Users/Acer/Downloads/proofOfConcept_v4/proofOfConcept_v4/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/runtimes/osx-arm64/native/libe_sqlite3.dylib
+C:/Users/Acer/Downloads/proofOfConcept_v4/proofOfConcept_v4/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+C:/Users/Acer/Downloads/proofOfConcept_v4/proofOfConcept_v4/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/runtimes/win-arm/native/e_sqlite3.dll
+C:/Users/Acer/Downloads/proofOfConcept_v4/proofOfConcept_v4/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/runtimes/win-arm64/native/e_sqlite3.dll
+C:/Users/Acer/Downloads/proofOfConcept_v4/proofOfConcept_v4/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/runtimes/win-x64/native/e_sqlite3.dll
+C:/Users/Acer/Downloads/proofOfConcept_v4/proofOfConcept_v4/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/runtimes/win-x86/native/e_sqlite3.dll
+C:/Users/Acer/Downloads/proofOfConcept_v4/proofOfConcept_v4/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/Domain.dll
+C:/Users/Acer/Downloads/proofOfConcept_v4/proofOfConcept_v4/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/EFC.dll
+C:/Users/Acer/Downloads/proofOfConcept_v4/proofOfConcept_v4/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/EFC.pdb
+C:/Users/Acer/Downloads/proofOfConcept_v4/proofOfConcept_v4/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/Domain.pdb
+C:/Users/Acer/Downloads/proofOfConcept_v4/proofOfConcept_v4/Tier3-DataAccess/GrpcService/obj/Debug/net7.0/GrpcService.csproj.AssemblyReference.cache
+C:/Users/Acer/Downloads/proofOfConcept_v4/proofOfConcept_v4/Tier3-DataAccess/GrpcService/obj/Debug/net7.0/GrpcService.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Acer/Downloads/proofOfConcept_v4/proofOfConcept_v4/Tier3-DataAccess/GrpcService/obj/Debug/net7.0/GrpcService.AssemblyInfoInputs.cache
+C:/Users/Acer/Downloads/proofOfConcept_v4/proofOfConcept_v4/Tier3-DataAccess/GrpcService/obj/Debug/net7.0/GrpcService.AssemblyInfo.cs
+C:/Users/Acer/Downloads/proofOfConcept_v4/proofOfConcept_v4/Tier3-DataAccess/GrpcService/obj/Debug/net7.0/GrpcService.csproj.CoreCompileInputs.cache
+C:/Users/Acer/Downloads/proofOfConcept_v4/proofOfConcept_v4/Tier3-DataAccess/GrpcService/obj/Debug/net7.0/GrpcService.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/Acer/Downloads/proofOfConcept_v4/proofOfConcept_v4/Tier3-DataAccess/GrpcService/obj/Debug/net7.0/staticwebassets/msbuild.GrpcService.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/Acer/Downloads/proofOfConcept_v4/proofOfConcept_v4/Tier3-DataAccess/GrpcService/obj/Debug/net7.0/staticwebassets/msbuild.build.GrpcService.props
+C:/Users/Acer/Downloads/proofOfConcept_v4/proofOfConcept_v4/Tier3-DataAccess/GrpcService/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.GrpcService.props
+C:/Users/Acer/Downloads/proofOfConcept_v4/proofOfConcept_v4/Tier3-DataAccess/GrpcService/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.GrpcService.props
+C:/Users/Acer/Downloads/proofOfConcept_v4/proofOfConcept_v4/Tier3-DataAccess/GrpcService/obj/Debug/net7.0/staticwebassets.pack.json
+C:/Users/Acer/Downloads/proofOfConcept_v4/proofOfConcept_v4/Tier3-DataAccess/GrpcService/obj/Debug/net7.0/staticwebassets.build.json
+C:/Users/Acer/Downloads/proofOfConcept_v4/proofOfConcept_v4/Tier3-DataAccess/GrpcService/obj/Debug/net7.0/staticwebassets.development.json
+C:/Users/Acer/Downloads/proofOfConcept_v4/proofOfConcept_v4/Tier3-DataAccess/GrpcService/obj/Debug/net7.0/scopedcss/bundle/GrpcService.styles.css
+C:/Users/Acer/Downloads/proofOfConcept_v4/proofOfConcept_v4/Tier3-DataAccess/GrpcService/obj/Debug/net7.0/GrpcService.csproj.CopyComplete
+C:/Users/Acer/Downloads/proofOfConcept_v4/proofOfConcept_v4/Tier3-DataAccess/GrpcService/obj/Debug/net7.0/GrpcService.dll
+C:/Users/Acer/Downloads/proofOfConcept_v4/proofOfConcept_v4/Tier3-DataAccess/GrpcService/obj/Debug/net7.0/refint/GrpcService.dll
+C:/Users/Acer/Downloads/proofOfConcept_v4/proofOfConcept_v4/Tier3-DataAccess/GrpcService/obj/Debug/net7.0/GrpcService.pdb
+C:/Users/Acer/Downloads/proofOfConcept_v4/proofOfConcept_v4/Tier3-DataAccess/GrpcService/obj/Debug/net7.0/GrpcService.genruntimeconfig.cache
+C:/Users/Acer/Downloads/proofOfConcept_v4/proofOfConcept_v4/Tier3-DataAccess/GrpcService/obj/Debug/net7.0/ref/GrpcService.dll
+C:/Users/37062/Documents/GitHub/proofOfConcept_v4/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/appsettings.Development.json
+C:/Users/37062/Documents/GitHub/proofOfConcept_v4/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/appsettings.json
+C:/Users/37062/Documents/GitHub/proofOfConcept_v4/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/GrpcService.exe
+C:/Users/37062/Documents/GitHub/proofOfConcept_v4/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/GrpcService.deps.json
+C:/Users/37062/Documents/GitHub/proofOfConcept_v4/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/GrpcService.runtimeconfig.json
+C:/Users/37062/Documents/GitHub/proofOfConcept_v4/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/GrpcService.dll
+C:/Users/37062/Documents/GitHub/proofOfConcept_v4/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/GrpcService.pdb
+C:/Users/37062/Documents/GitHub/proofOfConcept_v4/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/Google.Protobuf.dll
+C:/Users/37062/Documents/GitHub/proofOfConcept_v4/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/Grpc.AspNetCore.Server.dll
+C:/Users/37062/Documents/GitHub/proofOfConcept_v4/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/Grpc.AspNetCore.Server.ClientFactory.dll
+C:/Users/37062/Documents/GitHub/proofOfConcept_v4/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/Grpc.Core.Api.dll
+C:/Users/37062/Documents/GitHub/proofOfConcept_v4/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/Grpc.Net.Client.dll
+C:/Users/37062/Documents/GitHub/proofOfConcept_v4/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/Grpc.Net.ClientFactory.dll
+C:/Users/37062/Documents/GitHub/proofOfConcept_v4/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/Grpc.Net.Common.dll
+C:/Users/37062/Documents/GitHub/proofOfConcept_v4/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/Microsoft.Data.Sqlite.dll
+C:/Users/37062/Documents/GitHub/proofOfConcept_v4/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/37062/Documents/GitHub/proofOfConcept_v4/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/37062/Documents/GitHub/proofOfConcept_v4/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/37062/Documents/GitHub/proofOfConcept_v4/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Sqlite.dll
+C:/Users/37062/Documents/GitHub/proofOfConcept_v4/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+C:/Users/37062/Documents/GitHub/proofOfConcept_v4/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/SQLitePCLRaw.batteries_v2.dll
+C:/Users/37062/Documents/GitHub/proofOfConcept_v4/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/SQLitePCLRaw.core.dll
+C:/Users/37062/Documents/GitHub/proofOfConcept_v4/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/SQLitePCLRaw.provider.e_sqlite3.dll
+C:/Users/37062/Documents/GitHub/proofOfConcept_v4/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/runtimes/alpine-arm/native/libe_sqlite3.so
+C:/Users/37062/Documents/GitHub/proofOfConcept_v4/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/runtimes/alpine-arm64/native/libe_sqlite3.so
+C:/Users/37062/Documents/GitHub/proofOfConcept_v4/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/runtimes/alpine-x64/native/libe_sqlite3.so
+C:/Users/37062/Documents/GitHub/proofOfConcept_v4/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/runtimes/browser-wasm/nativeassets/net7.0/e_sqlite3.a
+C:/Users/37062/Documents/GitHub/proofOfConcept_v4/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/runtimes/linux-arm/native/libe_sqlite3.so
+C:/Users/37062/Documents/GitHub/proofOfConcept_v4/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/runtimes/linux-arm64/native/libe_sqlite3.so
+C:/Users/37062/Documents/GitHub/proofOfConcept_v4/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/runtimes/linux-armel/native/libe_sqlite3.so
+C:/Users/37062/Documents/GitHub/proofOfConcept_v4/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/runtimes/linux-mips64/native/libe_sqlite3.so
+C:/Users/37062/Documents/GitHub/proofOfConcept_v4/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/runtimes/linux-musl-arm/native/libe_sqlite3.so
+C:/Users/37062/Documents/GitHub/proofOfConcept_v4/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/runtimes/linux-musl-arm64/native/libe_sqlite3.so
+C:/Users/37062/Documents/GitHub/proofOfConcept_v4/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+C:/Users/37062/Documents/GitHub/proofOfConcept_v4/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/runtimes/linux-ppc64le/native/libe_sqlite3.so
+C:/Users/37062/Documents/GitHub/proofOfConcept_v4/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/runtimes/linux-s390x/native/libe_sqlite3.so
+C:/Users/37062/Documents/GitHub/proofOfConcept_v4/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/runtimes/linux-x64/native/libe_sqlite3.so
+C:/Users/37062/Documents/GitHub/proofOfConcept_v4/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/runtimes/linux-x86/native/libe_sqlite3.so
+C:/Users/37062/Documents/GitHub/proofOfConcept_v4/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/runtimes/maccatalyst-arm64/native/libe_sqlite3.dylib
+C:/Users/37062/Documents/GitHub/proofOfConcept_v4/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/runtimes/maccatalyst-x64/native/libe_sqlite3.dylib
+C:/Users/37062/Documents/GitHub/proofOfConcept_v4/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/runtimes/osx-arm64/native/libe_sqlite3.dylib
+C:/Users/37062/Documents/GitHub/proofOfConcept_v4/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+C:/Users/37062/Documents/GitHub/proofOfConcept_v4/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/runtimes/win-arm/native/e_sqlite3.dll
+C:/Users/37062/Documents/GitHub/proofOfConcept_v4/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/runtimes/win-arm64/native/e_sqlite3.dll
+C:/Users/37062/Documents/GitHub/proofOfConcept_v4/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/runtimes/win-x64/native/e_sqlite3.dll
+C:/Users/37062/Documents/GitHub/proofOfConcept_v4/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/runtimes/win-x86/native/e_sqlite3.dll
+C:/Users/37062/Documents/GitHub/proofOfConcept_v4/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/Domain.dll
+C:/Users/37062/Documents/GitHub/proofOfConcept_v4/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/EFC.dll
+C:/Users/37062/Documents/GitHub/proofOfConcept_v4/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/EFC.pdb
+C:/Users/37062/Documents/GitHub/proofOfConcept_v4/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/Domain.pdb
+C:/Users/37062/Documents/GitHub/proofOfConcept_v4/Tier3-DataAccess/GrpcService/obj/Debug/net7.0/GrpcService.csproj.AssemblyReference.cache
+C:/Users/37062/Documents/GitHub/proofOfConcept_v4/Tier3-DataAccess/GrpcService/obj/Debug/net7.0/GrpcService.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/37062/Documents/GitHub/proofOfConcept_v4/Tier3-DataAccess/GrpcService/obj/Debug/net7.0/GrpcService.AssemblyInfoInputs.cache
+C:/Users/37062/Documents/GitHub/proofOfConcept_v4/Tier3-DataAccess/GrpcService/obj/Debug/net7.0/GrpcService.AssemblyInfo.cs
+C:/Users/37062/Documents/GitHub/proofOfConcept_v4/Tier3-DataAccess/GrpcService/obj/Debug/net7.0/GrpcService.csproj.CoreCompileInputs.cache
+C:/Users/37062/Documents/GitHub/proofOfConcept_v4/Tier3-DataAccess/GrpcService/obj/Debug/net7.0/GrpcService.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/37062/Documents/GitHub/proofOfConcept_v4/Tier3-DataAccess/GrpcService/obj/Debug/net7.0/staticwebassets/msbuild.GrpcService.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/37062/Documents/GitHub/proofOfConcept_v4/Tier3-DataAccess/GrpcService/obj/Debug/net7.0/staticwebassets/msbuild.build.GrpcService.props
+C:/Users/37062/Documents/GitHub/proofOfConcept_v4/Tier3-DataAccess/GrpcService/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.GrpcService.props
+C:/Users/37062/Documents/GitHub/proofOfConcept_v4/Tier3-DataAccess/GrpcService/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.GrpcService.props
+C:/Users/37062/Documents/GitHub/proofOfConcept_v4/Tier3-DataAccess/GrpcService/obj/Debug/net7.0/staticwebassets.pack.json
+C:/Users/37062/Documents/GitHub/proofOfConcept_v4/Tier3-DataAccess/GrpcService/obj/Debug/net7.0/staticwebassets.build.json
+C:/Users/37062/Documents/GitHub/proofOfConcept_v4/Tier3-DataAccess/GrpcService/obj/Debug/net7.0/staticwebassets.development.json
+C:/Users/37062/Documents/GitHub/proofOfConcept_v4/Tier3-DataAccess/GrpcService/obj/Debug/net7.0/scopedcss/bundle/GrpcService.styles.css
+C:/Users/37062/Documents/GitHub/proofOfConcept_v4/Tier3-DataAccess/GrpcService/obj/Debug/net7.0/GrpcService.csproj.CopyComplete
+C:/Users/37062/Documents/GitHub/proofOfConcept_v4/Tier3-DataAccess/GrpcService/obj/Debug/net7.0/GrpcService.dll
+C:/Users/37062/Documents/GitHub/proofOfConcept_v4/Tier3-DataAccess/GrpcService/obj/Debug/net7.0/refint/GrpcService.dll
+C:/Users/37062/Documents/GitHub/proofOfConcept_v4/Tier3-DataAccess/GrpcService/obj/Debug/net7.0/GrpcService.pdb
+C:/Users/37062/Documents/GitHub/proofOfConcept_v4/Tier3-DataAccess/GrpcService/obj/Debug/net7.0/GrpcService.genruntimeconfig.cache
+C:/Users/37062/Documents/GitHub/proofOfConcept_v4/Tier3-DataAccess/GrpcService/obj/Debug/net7.0/ref/GrpcService.dll
+C:/Users/darja/Documents/FROM OTHER DOCUMENTS FOLDER/GitHub/proofOfConcept_v4/proofOfConcept_v4/proofOfConcept_v4/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/appsettings.Development.json
+C:/Users/darja/Documents/FROM OTHER DOCUMENTS FOLDER/GitHub/proofOfConcept_v4/proofOfConcept_v4/proofOfConcept_v4/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/appsettings.json
+C:/Users/darja/Documents/FROM OTHER DOCUMENTS FOLDER/GitHub/proofOfConcept_v4/proofOfConcept_v4/proofOfConcept_v4/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/GrpcService.exe
+C:/Users/darja/Documents/FROM OTHER DOCUMENTS FOLDER/GitHub/proofOfConcept_v4/proofOfConcept_v4/proofOfConcept_v4/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/GrpcService.deps.json
+C:/Users/darja/Documents/FROM OTHER DOCUMENTS FOLDER/GitHub/proofOfConcept_v4/proofOfConcept_v4/proofOfConcept_v4/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/GrpcService.runtimeconfig.json
+C:/Users/darja/Documents/FROM OTHER DOCUMENTS FOLDER/GitHub/proofOfConcept_v4/proofOfConcept_v4/proofOfConcept_v4/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/GrpcService.dll
+C:/Users/darja/Documents/FROM OTHER DOCUMENTS FOLDER/GitHub/proofOfConcept_v4/proofOfConcept_v4/proofOfConcept_v4/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/GrpcService.pdb
+C:/Users/darja/Documents/FROM OTHER DOCUMENTS FOLDER/GitHub/proofOfConcept_v4/proofOfConcept_v4/proofOfConcept_v4/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/Google.Protobuf.dll
+C:/Users/darja/Documents/FROM OTHER DOCUMENTS FOLDER/GitHub/proofOfConcept_v4/proofOfConcept_v4/proofOfConcept_v4/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/Grpc.AspNetCore.Server.dll
+C:/Users/darja/Documents/FROM OTHER DOCUMENTS FOLDER/GitHub/proofOfConcept_v4/proofOfConcept_v4/proofOfConcept_v4/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/Grpc.AspNetCore.Server.ClientFactory.dll
+C:/Users/darja/Documents/FROM OTHER DOCUMENTS FOLDER/GitHub/proofOfConcept_v4/proofOfConcept_v4/proofOfConcept_v4/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/Grpc.Core.Api.dll
+C:/Users/darja/Documents/FROM OTHER DOCUMENTS FOLDER/GitHub/proofOfConcept_v4/proofOfConcept_v4/proofOfConcept_v4/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/Grpc.Net.Client.dll
+C:/Users/darja/Documents/FROM OTHER DOCUMENTS FOLDER/GitHub/proofOfConcept_v4/proofOfConcept_v4/proofOfConcept_v4/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/Grpc.Net.ClientFactory.dll
+C:/Users/darja/Documents/FROM OTHER DOCUMENTS FOLDER/GitHub/proofOfConcept_v4/proofOfConcept_v4/proofOfConcept_v4/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/Grpc.Net.Common.dll
+C:/Users/darja/Documents/FROM OTHER DOCUMENTS FOLDER/GitHub/proofOfConcept_v4/proofOfConcept_v4/proofOfConcept_v4/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/Microsoft.Data.Sqlite.dll
+C:/Users/darja/Documents/FROM OTHER DOCUMENTS FOLDER/GitHub/proofOfConcept_v4/proofOfConcept_v4/proofOfConcept_v4/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/darja/Documents/FROM OTHER DOCUMENTS FOLDER/GitHub/proofOfConcept_v4/proofOfConcept_v4/proofOfConcept_v4/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/darja/Documents/FROM OTHER DOCUMENTS FOLDER/GitHub/proofOfConcept_v4/proofOfConcept_v4/proofOfConcept_v4/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/darja/Documents/FROM OTHER DOCUMENTS FOLDER/GitHub/proofOfConcept_v4/proofOfConcept_v4/proofOfConcept_v4/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Sqlite.dll
+C:/Users/darja/Documents/FROM OTHER DOCUMENTS FOLDER/GitHub/proofOfConcept_v4/proofOfConcept_v4/proofOfConcept_v4/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+C:/Users/darja/Documents/FROM OTHER DOCUMENTS FOLDER/GitHub/proofOfConcept_v4/proofOfConcept_v4/proofOfConcept_v4/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/SQLitePCLRaw.batteries_v2.dll
+C:/Users/darja/Documents/FROM OTHER DOCUMENTS FOLDER/GitHub/proofOfConcept_v4/proofOfConcept_v4/proofOfConcept_v4/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/SQLitePCLRaw.core.dll
+C:/Users/darja/Documents/FROM OTHER DOCUMENTS FOLDER/GitHub/proofOfConcept_v4/proofOfConcept_v4/proofOfConcept_v4/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/SQLitePCLRaw.provider.e_sqlite3.dll
+C:/Users/darja/Documents/FROM OTHER DOCUMENTS FOLDER/GitHub/proofOfConcept_v4/proofOfConcept_v4/proofOfConcept_v4/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/runtimes/alpine-arm/native/libe_sqlite3.so
+C:/Users/darja/Documents/FROM OTHER DOCUMENTS FOLDER/GitHub/proofOfConcept_v4/proofOfConcept_v4/proofOfConcept_v4/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/runtimes/alpine-arm64/native/libe_sqlite3.so
+C:/Users/darja/Documents/FROM OTHER DOCUMENTS FOLDER/GitHub/proofOfConcept_v4/proofOfConcept_v4/proofOfConcept_v4/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/runtimes/alpine-x64/native/libe_sqlite3.so
+C:/Users/darja/Documents/FROM OTHER DOCUMENTS FOLDER/GitHub/proofOfConcept_v4/proofOfConcept_v4/proofOfConcept_v4/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/runtimes/browser-wasm/nativeassets/net7.0/e_sqlite3.a
+C:/Users/darja/Documents/FROM OTHER DOCUMENTS FOLDER/GitHub/proofOfConcept_v4/proofOfConcept_v4/proofOfConcept_v4/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/runtimes/linux-arm/native/libe_sqlite3.so
+C:/Users/darja/Documents/FROM OTHER DOCUMENTS FOLDER/GitHub/proofOfConcept_v4/proofOfConcept_v4/proofOfConcept_v4/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/runtimes/linux-arm64/native/libe_sqlite3.so
+C:/Users/darja/Documents/FROM OTHER DOCUMENTS FOLDER/GitHub/proofOfConcept_v4/proofOfConcept_v4/proofOfConcept_v4/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/runtimes/linux-armel/native/libe_sqlite3.so
+C:/Users/darja/Documents/FROM OTHER DOCUMENTS FOLDER/GitHub/proofOfConcept_v4/proofOfConcept_v4/proofOfConcept_v4/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/runtimes/linux-mips64/native/libe_sqlite3.so
+C:/Users/darja/Documents/FROM OTHER DOCUMENTS FOLDER/GitHub/proofOfConcept_v4/proofOfConcept_v4/proofOfConcept_v4/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/runtimes/linux-musl-arm/native/libe_sqlite3.so
+C:/Users/darja/Documents/FROM OTHER DOCUMENTS FOLDER/GitHub/proofOfConcept_v4/proofOfConcept_v4/proofOfConcept_v4/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/runtimes/linux-musl-arm64/native/libe_sqlite3.so
+C:/Users/darja/Documents/FROM OTHER DOCUMENTS FOLDER/GitHub/proofOfConcept_v4/proofOfConcept_v4/proofOfConcept_v4/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+C:/Users/darja/Documents/FROM OTHER DOCUMENTS FOLDER/GitHub/proofOfConcept_v4/proofOfConcept_v4/proofOfConcept_v4/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/runtimes/linux-ppc64le/native/libe_sqlite3.so
+C:/Users/darja/Documents/FROM OTHER DOCUMENTS FOLDER/GitHub/proofOfConcept_v4/proofOfConcept_v4/proofOfConcept_v4/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/runtimes/linux-s390x/native/libe_sqlite3.so
+C:/Users/darja/Documents/FROM OTHER DOCUMENTS FOLDER/GitHub/proofOfConcept_v4/proofOfConcept_v4/proofOfConcept_v4/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/runtimes/linux-x64/native/libe_sqlite3.so
+C:/Users/darja/Documents/FROM OTHER DOCUMENTS FOLDER/GitHub/proofOfConcept_v4/proofOfConcept_v4/proofOfConcept_v4/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/runtimes/linux-x86/native/libe_sqlite3.so
+C:/Users/darja/Documents/FROM OTHER DOCUMENTS FOLDER/GitHub/proofOfConcept_v4/proofOfConcept_v4/proofOfConcept_v4/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/runtimes/maccatalyst-arm64/native/libe_sqlite3.dylib
+C:/Users/darja/Documents/FROM OTHER DOCUMENTS FOLDER/GitHub/proofOfConcept_v4/proofOfConcept_v4/proofOfConcept_v4/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/runtimes/maccatalyst-x64/native/libe_sqlite3.dylib
+C:/Users/darja/Documents/FROM OTHER DOCUMENTS FOLDER/GitHub/proofOfConcept_v4/proofOfConcept_v4/proofOfConcept_v4/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/runtimes/osx-arm64/native/libe_sqlite3.dylib
+C:/Users/darja/Documents/FROM OTHER DOCUMENTS FOLDER/GitHub/proofOfConcept_v4/proofOfConcept_v4/proofOfConcept_v4/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+C:/Users/darja/Documents/FROM OTHER DOCUMENTS FOLDER/GitHub/proofOfConcept_v4/proofOfConcept_v4/proofOfConcept_v4/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/runtimes/win-arm/native/e_sqlite3.dll
+C:/Users/darja/Documents/FROM OTHER DOCUMENTS FOLDER/GitHub/proofOfConcept_v4/proofOfConcept_v4/proofOfConcept_v4/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/runtimes/win-arm64/native/e_sqlite3.dll
+C:/Users/darja/Documents/FROM OTHER DOCUMENTS FOLDER/GitHub/proofOfConcept_v4/proofOfConcept_v4/proofOfConcept_v4/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/runtimes/win-x64/native/e_sqlite3.dll
+C:/Users/darja/Documents/FROM OTHER DOCUMENTS FOLDER/GitHub/proofOfConcept_v4/proofOfConcept_v4/proofOfConcept_v4/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/runtimes/win-x86/native/e_sqlite3.dll
+C:/Users/darja/Documents/FROM OTHER DOCUMENTS FOLDER/GitHub/proofOfConcept_v4/proofOfConcept_v4/proofOfConcept_v4/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/Domain.dll
+C:/Users/darja/Documents/FROM OTHER DOCUMENTS FOLDER/GitHub/proofOfConcept_v4/proofOfConcept_v4/proofOfConcept_v4/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/EFC.dll
+C:/Users/darja/Documents/FROM OTHER DOCUMENTS FOLDER/GitHub/proofOfConcept_v4/proofOfConcept_v4/proofOfConcept_v4/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/EFC.pdb
+C:/Users/darja/Documents/FROM OTHER DOCUMENTS FOLDER/GitHub/proofOfConcept_v4/proofOfConcept_v4/proofOfConcept_v4/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/Domain.pdb
+C:/Users/darja/Documents/FROM OTHER DOCUMENTS FOLDER/GitHub/proofOfConcept_v4/proofOfConcept_v4/proofOfConcept_v4/Tier3-DataAccess/GrpcService/obj/Debug/net7.0/GrpcService.csproj.AssemblyReference.cache
+C:/Users/darja/Documents/FROM OTHER DOCUMENTS FOLDER/GitHub/proofOfConcept_v4/proofOfConcept_v4/proofOfConcept_v4/Tier3-DataAccess/GrpcService/obj/Debug/net7.0/GrpcService.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/darja/Documents/FROM OTHER DOCUMENTS FOLDER/GitHub/proofOfConcept_v4/proofOfConcept_v4/proofOfConcept_v4/Tier3-DataAccess/GrpcService/obj/Debug/net7.0/GrpcService.AssemblyInfoInputs.cache
+C:/Users/darja/Documents/FROM OTHER DOCUMENTS FOLDER/GitHub/proofOfConcept_v4/proofOfConcept_v4/proofOfConcept_v4/Tier3-DataAccess/GrpcService/obj/Debug/net7.0/GrpcService.AssemblyInfo.cs
+C:/Users/darja/Documents/FROM OTHER DOCUMENTS FOLDER/GitHub/proofOfConcept_v4/proofOfConcept_v4/proofOfConcept_v4/Tier3-DataAccess/GrpcService/obj/Debug/net7.0/GrpcService.csproj.CoreCompileInputs.cache
+C:/Users/darja/Documents/FROM OTHER DOCUMENTS FOLDER/GitHub/proofOfConcept_v4/proofOfConcept_v4/proofOfConcept_v4/Tier3-DataAccess/GrpcService/obj/Debug/net7.0/GrpcService.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/darja/Documents/FROM OTHER DOCUMENTS FOLDER/GitHub/proofOfConcept_v4/proofOfConcept_v4/proofOfConcept_v4/Tier3-DataAccess/GrpcService/obj/Debug/net7.0/staticwebassets/msbuild.GrpcService.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/darja/Documents/FROM OTHER DOCUMENTS FOLDER/GitHub/proofOfConcept_v4/proofOfConcept_v4/proofOfConcept_v4/Tier3-DataAccess/GrpcService/obj/Debug/net7.0/staticwebassets/msbuild.build.GrpcService.props
+C:/Users/darja/Documents/FROM OTHER DOCUMENTS FOLDER/GitHub/proofOfConcept_v4/proofOfConcept_v4/proofOfConcept_v4/Tier3-DataAccess/GrpcService/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.GrpcService.props
+C:/Users/darja/Documents/FROM OTHER DOCUMENTS FOLDER/GitHub/proofOfConcept_v4/proofOfConcept_v4/proofOfConcept_v4/Tier3-DataAccess/GrpcService/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.GrpcService.props
+C:/Users/darja/Documents/FROM OTHER DOCUMENTS FOLDER/GitHub/proofOfConcept_v4/proofOfConcept_v4/proofOfConcept_v4/Tier3-DataAccess/GrpcService/obj/Debug/net7.0/staticwebassets.pack.json
+C:/Users/darja/Documents/FROM OTHER DOCUMENTS FOLDER/GitHub/proofOfConcept_v4/proofOfConcept_v4/proofOfConcept_v4/Tier3-DataAccess/GrpcService/obj/Debug/net7.0/staticwebassets.build.json
+C:/Users/darja/Documents/FROM OTHER DOCUMENTS FOLDER/GitHub/proofOfConcept_v4/proofOfConcept_v4/proofOfConcept_v4/Tier3-DataAccess/GrpcService/obj/Debug/net7.0/staticwebassets.development.json
+C:/Users/darja/Documents/FROM OTHER DOCUMENTS FOLDER/GitHub/proofOfConcept_v4/proofOfConcept_v4/proofOfConcept_v4/Tier3-DataAccess/GrpcService/obj/Debug/net7.0/scopedcss/bundle/GrpcService.styles.css
+C:/Users/darja/Documents/FROM OTHER DOCUMENTS FOLDER/GitHub/proofOfConcept_v4/proofOfConcept_v4/proofOfConcept_v4/Tier3-DataAccess/GrpcService/obj/Debug/net7.0/GrpcService.csproj.CopyComplete
+C:/Users/darja/Documents/FROM OTHER DOCUMENTS FOLDER/GitHub/proofOfConcept_v4/proofOfConcept_v4/proofOfConcept_v4/Tier3-DataAccess/GrpcService/obj/Debug/net7.0/GrpcService.dll
+C:/Users/darja/Documents/FROM OTHER DOCUMENTS FOLDER/GitHub/proofOfConcept_v4/proofOfConcept_v4/proofOfConcept_v4/Tier3-DataAccess/GrpcService/obj/Debug/net7.0/refint/GrpcService.dll
+C:/Users/darja/Documents/FROM OTHER DOCUMENTS FOLDER/GitHub/proofOfConcept_v4/proofOfConcept_v4/proofOfConcept_v4/Tier3-DataAccess/GrpcService/obj/Debug/net7.0/GrpcService.pdb
+C:/Users/darja/Documents/FROM OTHER DOCUMENTS FOLDER/GitHub/proofOfConcept_v4/proofOfConcept_v4/proofOfConcept_v4/Tier3-DataAccess/GrpcService/obj/Debug/net7.0/GrpcService.genruntimeconfig.cache
+C:/Users/darja/Documents/FROM OTHER DOCUMENTS FOLDER/GitHub/proofOfConcept_v4/proofOfConcept_v4/proofOfConcept_v4/Tier3-DataAccess/GrpcService/obj/Debug/net7.0/ref/GrpcService.dll
+/Users/jakubkuka/Desktop/school/ThirdSemester/proofOfConcept_v4/Sep3-SemesterProject/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/appsettings.Development.json
+/Users/jakubkuka/Desktop/school/ThirdSemester/proofOfConcept_v4/Sep3-SemesterProject/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/appsettings.json
+/Users/jakubkuka/Desktop/school/ThirdSemester/proofOfConcept_v4/Sep3-SemesterProject/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/GrpcService
+/Users/jakubkuka/Desktop/school/ThirdSemester/proofOfConcept_v4/Sep3-SemesterProject/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/GrpcService.deps.json
+/Users/jakubkuka/Desktop/school/ThirdSemester/proofOfConcept_v4/Sep3-SemesterProject/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/GrpcService.runtimeconfig.json
+/Users/jakubkuka/Desktop/school/ThirdSemester/proofOfConcept_v4/Sep3-SemesterProject/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/GrpcService.dll
+/Users/jakubkuka/Desktop/school/ThirdSemester/proofOfConcept_v4/Sep3-SemesterProject/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/GrpcService.pdb
+/Users/jakubkuka/Desktop/school/ThirdSemester/proofOfConcept_v4/Sep3-SemesterProject/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/Google.Protobuf.dll
+/Users/jakubkuka/Desktop/school/ThirdSemester/proofOfConcept_v4/Sep3-SemesterProject/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/Grpc.AspNetCore.Server.dll
+/Users/jakubkuka/Desktop/school/ThirdSemester/proofOfConcept_v4/Sep3-SemesterProject/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/Grpc.AspNetCore.Server.ClientFactory.dll
+/Users/jakubkuka/Desktop/school/ThirdSemester/proofOfConcept_v4/Sep3-SemesterProject/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/Grpc.Core.Api.dll
+/Users/jakubkuka/Desktop/school/ThirdSemester/proofOfConcept_v4/Sep3-SemesterProject/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/Grpc.Net.Client.dll
+/Users/jakubkuka/Desktop/school/ThirdSemester/proofOfConcept_v4/Sep3-SemesterProject/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/Grpc.Net.ClientFactory.dll
+/Users/jakubkuka/Desktop/school/ThirdSemester/proofOfConcept_v4/Sep3-SemesterProject/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/Grpc.Net.Common.dll
+/Users/jakubkuka/Desktop/school/ThirdSemester/proofOfConcept_v4/Sep3-SemesterProject/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/Microsoft.Data.Sqlite.dll
+/Users/jakubkuka/Desktop/school/ThirdSemester/proofOfConcept_v4/Sep3-SemesterProject/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+/Users/jakubkuka/Desktop/school/ThirdSemester/proofOfConcept_v4/Sep3-SemesterProject/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/jakubkuka/Desktop/school/ThirdSemester/proofOfConcept_v4/Sep3-SemesterProject/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/jakubkuka/Desktop/school/ThirdSemester/proofOfConcept_v4/Sep3-SemesterProject/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Sqlite.dll
+/Users/jakubkuka/Desktop/school/ThirdSemester/proofOfConcept_v4/Sep3-SemesterProject/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+/Users/jakubkuka/Desktop/school/ThirdSemester/proofOfConcept_v4/Sep3-SemesterProject/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/SQLitePCLRaw.batteries_v2.dll
+/Users/jakubkuka/Desktop/school/ThirdSemester/proofOfConcept_v4/Sep3-SemesterProject/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/SQLitePCLRaw.core.dll
+/Users/jakubkuka/Desktop/school/ThirdSemester/proofOfConcept_v4/Sep3-SemesterProject/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/SQLitePCLRaw.provider.e_sqlite3.dll
+/Users/jakubkuka/Desktop/school/ThirdSemester/proofOfConcept_v4/Sep3-SemesterProject/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/runtimes/alpine-arm/native/libe_sqlite3.so
+/Users/jakubkuka/Desktop/school/ThirdSemester/proofOfConcept_v4/Sep3-SemesterProject/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/runtimes/alpine-arm64/native/libe_sqlite3.so
+/Users/jakubkuka/Desktop/school/ThirdSemester/proofOfConcept_v4/Sep3-SemesterProject/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/runtimes/alpine-x64/native/libe_sqlite3.so
+/Users/jakubkuka/Desktop/school/ThirdSemester/proofOfConcept_v4/Sep3-SemesterProject/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/runtimes/browser-wasm/nativeassets/net7.0/e_sqlite3.a
+/Users/jakubkuka/Desktop/school/ThirdSemester/proofOfConcept_v4/Sep3-SemesterProject/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/runtimes/linux-arm/native/libe_sqlite3.so
+/Users/jakubkuka/Desktop/school/ThirdSemester/proofOfConcept_v4/Sep3-SemesterProject/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/runtimes/linux-arm64/native/libe_sqlite3.so
+/Users/jakubkuka/Desktop/school/ThirdSemester/proofOfConcept_v4/Sep3-SemesterProject/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/runtimes/linux-armel/native/libe_sqlite3.so
+/Users/jakubkuka/Desktop/school/ThirdSemester/proofOfConcept_v4/Sep3-SemesterProject/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/runtimes/linux-mips64/native/libe_sqlite3.so
+/Users/jakubkuka/Desktop/school/ThirdSemester/proofOfConcept_v4/Sep3-SemesterProject/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/runtimes/linux-musl-arm/native/libe_sqlite3.so
+/Users/jakubkuka/Desktop/school/ThirdSemester/proofOfConcept_v4/Sep3-SemesterProject/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/runtimes/linux-musl-arm64/native/libe_sqlite3.so
+/Users/jakubkuka/Desktop/school/ThirdSemester/proofOfConcept_v4/Sep3-SemesterProject/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/Users/jakubkuka/Desktop/school/ThirdSemester/proofOfConcept_v4/Sep3-SemesterProject/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/runtimes/linux-ppc64le/native/libe_sqlite3.so
+/Users/jakubkuka/Desktop/school/ThirdSemester/proofOfConcept_v4/Sep3-SemesterProject/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/runtimes/linux-s390x/native/libe_sqlite3.so
+/Users/jakubkuka/Desktop/school/ThirdSemester/proofOfConcept_v4/Sep3-SemesterProject/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/runtimes/linux-x64/native/libe_sqlite3.so
+/Users/jakubkuka/Desktop/school/ThirdSemester/proofOfConcept_v4/Sep3-SemesterProject/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/runtimes/linux-x86/native/libe_sqlite3.so
+/Users/jakubkuka/Desktop/school/ThirdSemester/proofOfConcept_v4/Sep3-SemesterProject/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/runtimes/maccatalyst-arm64/native/libe_sqlite3.dylib
+/Users/jakubkuka/Desktop/school/ThirdSemester/proofOfConcept_v4/Sep3-SemesterProject/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/runtimes/maccatalyst-x64/native/libe_sqlite3.dylib
+/Users/jakubkuka/Desktop/school/ThirdSemester/proofOfConcept_v4/Sep3-SemesterProject/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/runtimes/osx-arm64/native/libe_sqlite3.dylib
+/Users/jakubkuka/Desktop/school/ThirdSemester/proofOfConcept_v4/Sep3-SemesterProject/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+/Users/jakubkuka/Desktop/school/ThirdSemester/proofOfConcept_v4/Sep3-SemesterProject/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/runtimes/win-arm/native/e_sqlite3.dll
+/Users/jakubkuka/Desktop/school/ThirdSemester/proofOfConcept_v4/Sep3-SemesterProject/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/runtimes/win-arm64/native/e_sqlite3.dll
+/Users/jakubkuka/Desktop/school/ThirdSemester/proofOfConcept_v4/Sep3-SemesterProject/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/runtimes/win-x64/native/e_sqlite3.dll
+/Users/jakubkuka/Desktop/school/ThirdSemester/proofOfConcept_v4/Sep3-SemesterProject/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/runtimes/win-x86/native/e_sqlite3.dll
+/Users/jakubkuka/Desktop/school/ThirdSemester/proofOfConcept_v4/Sep3-SemesterProject/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/Domain.dll
+/Users/jakubkuka/Desktop/school/ThirdSemester/proofOfConcept_v4/Sep3-SemesterProject/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/EFC.dll
+/Users/jakubkuka/Desktop/school/ThirdSemester/proofOfConcept_v4/Sep3-SemesterProject/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/EFC.pdb
+/Users/jakubkuka/Desktop/school/ThirdSemester/proofOfConcept_v4/Sep3-SemesterProject/Tier3-DataAccess/GrpcService/bin/Debug/net7.0/Domain.pdb
+/Users/jakubkuka/Desktop/school/ThirdSemester/proofOfConcept_v4/Sep3-SemesterProject/Tier3-DataAccess/GrpcService/obj/Debug/net7.0/GrpcService.csproj.AssemblyReference.cache
+/Users/jakubkuka/Desktop/school/ThirdSemester/proofOfConcept_v4/Sep3-SemesterProject/Tier3-DataAccess/GrpcService/obj/Debug/net7.0/GrpcService.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jakubkuka/Desktop/school/ThirdSemester/proofOfConcept_v4/Sep3-SemesterProject/Tier3-DataAccess/GrpcService/obj/Debug/net7.0/GrpcService.AssemblyInfoInputs.cache
+/Users/jakubkuka/Desktop/school/ThirdSemester/proofOfConcept_v4/Sep3-SemesterProject/Tier3-DataAccess/GrpcService/obj/Debug/net7.0/GrpcService.AssemblyInfo.cs
+/Users/jakubkuka/Desktop/school/ThirdSemester/proofOfConcept_v4/Sep3-SemesterProject/Tier3-DataAccess/GrpcService/obj/Debug/net7.0/GrpcService.csproj.CoreCompileInputs.cache
+/Users/jakubkuka/Desktop/school/ThirdSemester/proofOfConcept_v4/Sep3-SemesterProject/Tier3-DataAccess/GrpcService/obj/Debug/net7.0/GrpcService.MvcApplicationPartsAssemblyInfo.cache
+/Users/jakubkuka/Desktop/school/ThirdSemester/proofOfConcept_v4/Sep3-SemesterProject/Tier3-DataAccess/GrpcService/obj/Debug/net7.0/staticwebassets/msbuild.GrpcService.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/jakubkuka/Desktop/school/ThirdSemester/proofOfConcept_v4/Sep3-SemesterProject/Tier3-DataAccess/GrpcService/obj/Debug/net7.0/staticwebassets/msbuild.build.GrpcService.props
+/Users/jakubkuka/Desktop/school/ThirdSemester/proofOfConcept_v4/Sep3-SemesterProject/Tier3-DataAccess/GrpcService/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.GrpcService.props
+/Users/jakubkuka/Desktop/school/ThirdSemester/proofOfConcept_v4/Sep3-SemesterProject/Tier3-DataAccess/GrpcService/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.GrpcService.props
+/Users/jakubkuka/Desktop/school/ThirdSemester/proofOfConcept_v4/Sep3-SemesterProject/Tier3-DataAccess/GrpcService/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/jakubkuka/Desktop/school/ThirdSemester/proofOfConcept_v4/Sep3-SemesterProject/Tier3-DataAccess/GrpcService/obj/Debug/net7.0/staticwebassets.build.json
+/Users/jakubkuka/Desktop/school/ThirdSemester/proofOfConcept_v4/Sep3-SemesterProject/Tier3-DataAccess/GrpcService/obj/Debug/net7.0/staticwebassets.development.json
+/Users/jakubkuka/Desktop/school/ThirdSemester/proofOfConcept_v4/Sep3-SemesterProject/Tier3-DataAccess/GrpcService/obj/Debug/net7.0/scopedcss/bundle/GrpcService.styles.css
+/Users/jakubkuka/Desktop/school/ThirdSemester/proofOfConcept_v4/Sep3-SemesterProject/Tier3-DataAccess/GrpcService/obj/Debug/net7.0/GrpcService.csproj.CopyComplete
+/Users/jakubkuka/Desktop/school/ThirdSemester/proofOfConcept_v4/Sep3-SemesterProject/Tier3-DataAccess/GrpcService/obj/Debug/net7.0/GrpcService.dll
+/Users/jakubkuka/Desktop/school/ThirdSemester/proofOfConcept_v4/Sep3-SemesterProject/Tier3-DataAccess/GrpcService/obj/Debug/net7.0/refint/GrpcService.dll
+/Users/jakubkuka/Desktop/school/ThirdSemester/proofOfConcept_v4/Sep3-SemesterProject/Tier3-DataAccess/GrpcService/obj/Debug/net7.0/GrpcService.pdb
+/Users/jakubkuka/Desktop/school/ThirdSemester/proofOfConcept_v4/Sep3-SemesterProject/Tier3-DataAccess/GrpcService/obj/Debug/net7.0/GrpcService.genruntimeconfig.cache
+/Users/jakubkuka/Desktop/school/ThirdSemester/proofOfConcept_v4/Sep3-SemesterProject/Tier3-DataAccess/GrpcService/obj/Debug/net7.0/ref/GrpcService.dll

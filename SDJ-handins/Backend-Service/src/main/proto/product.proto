@@ -1,0 +1,17 @@
+syntax = "proto3";
+
+option java_multiple_files = true;
+option java_package = "com.example.slaughterhousepart3.generated.product";
+
+service ProductService {
+	rpc getPackages(RequestId) returns (ResponseText) {};
+	rpc getAnimalParts(RequestId) returns (ResponseText){};
+}
+
+message RequestId{
+	int32 id = 1;
+}
+
+message ResponseText{
+	string output_text = 1;
+}

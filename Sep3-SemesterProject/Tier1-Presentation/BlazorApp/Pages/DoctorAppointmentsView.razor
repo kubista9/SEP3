@@ -1,0 +1,119 @@
+@page "/Doctor/ViewAppointments"
+@attribute [Authorize]
+@using Domain.Models
+@using Domain.DTOs
+@using HttpClients.ClientInterfaces
+@using BlazorApp.Services
+@inject IDoctorService DoctorService
+@inject IAppointmentService AppointmentService
+@inject NavigationManager NavMgr
+@inject IAuthService authService
+
+
+<AuthorizeView>
+    <Authorize>
+    <div class="card">
+        <h3>View appointments</h3>
+        <h1>Select date to view:</h1>
+        <div class="form-group field">
+        </div>
+        <div class="form-group field">
+            <label>Date:</label>
+            <InputDate @bind-Value="appointmentsDate"/>
+        </div>
+        <div class="button-row">
+            @if (!string.IsNullOrEmpty(msg))
+            {
+                <label style="color: red">@msg</label>
+            }
+            <button @onclick="GetAppointments" class="acceptbtn">Show</button>
+        </div>
+    </div>
+    <div>
+        <button @onclick="GetAppointments">Load</button>
+    </div>
+    
+    @if (appointments == null)
+    {
+    }
+    else if (!appointments.Any())
+    {
+        <p>No Appointments to display</p>
+    }
+    else{ 
+    
+        <h2>Patient: patientName with id: patientId </h2>
+        <table class="table">
+            <thead>
+            <tr>
+                <th>Appointment ID</th>
+                <th>Patient ID</th>
+                <th>Diagnostic</th>
+                <th>Resolved?</th>
+                <th>Date</th>
+                <th>Time</th>
+                <th>View Appointment</th>
+            </tr>
+            </thead>
+    
+            <tbody>
+            @foreach (var appointment in appointments)
+            {
+                <tr>
+                    <td>@appointment.AppointmentId</td>
+                    <td>@appointment.PatientId</td>
+                    <td>@appointment.Diagnosis</td>
+                    <td>@appointment.Status</td>
+                    <td>@appointment.Date</td>
+                    <td>@appointment.Time</td>
+                    <td>
+                        <img src="icons/View.png" class="funnel" @onclick="@(() => NavMgr.NavigateTo($"/DoctorResolveView/{appointment.AppointmentId}"))"/>
+                    </td>
+                </tr>
+            }
+            </tbody>
+        </table>
+    }
+    
+    @if (!string.IsNullOrEmpty(msg))
+    {
+        <label style="color: red">@msg</label>
+    }
+    </Authorize>
+    
+</AuthorizeView>
+
+
+
+@code {
+    private List<Appointment> appointments;
+    private DateOnly appointmentsDate;
+    
+
+    private string msg = "";
+    
+
+    private async Task GetAppointments()
+    {
+        msg = "";
+        
+
+        try
+        {
+            DoctorViewAppointmentsDto dto = new DoctorViewAppointmentsDto();
+            // dto.Appointments = new IEnumerable<Appointment>();
+            dto.Date = (appointmentsDate.Day + "/" + appointmentsDate.Month + "/" + appointmentsDate.Year );
+        
+            appointments = await AppointmentService.getAppointmentsByDateDoctor(dto, authService.getJwt());
+            
+            Console.WriteLine(appointments.ToString());
+            // update the and list the appointments
+        }
+        catch (Exception e)
+        {
+            Console.WriteLine(e);
+            msg = e.Message;
+        }
+    }
+    
+}

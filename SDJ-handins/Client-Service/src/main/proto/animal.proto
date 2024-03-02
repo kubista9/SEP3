@@ -1,0 +1,26 @@
+syntax = "proto3";
+
+option java_multiple_files = true;
+option java_package = "via.sdj3.slaughterhousepart2.generated.animal";
+
+service AnimalService {
+  rpc addAnimal(AnimalObj) returns (AnimalObj) {};
+  rpc getAnimalById(RequestText) returns (AnimalObj){};
+}
+
+message RequestText{
+  int32 input_text = 1;
+}
+
+message ResponseText{
+  string output_text = 1;
+}
+
+message AnimalObj{
+  int32 id = 1;
+  string date = 2;
+  string name = 3;
+  string origin = 4;
+  double weight = 5;
+
+}

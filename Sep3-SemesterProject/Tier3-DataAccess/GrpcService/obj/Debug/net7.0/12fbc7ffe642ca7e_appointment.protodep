@@ -1,0 +1,2 @@
+obj\Debug\net7.0/Appointment.cs \
+obj\Debug\net7.0/AppointmentGrpc.cs: Protos/appointment.proto

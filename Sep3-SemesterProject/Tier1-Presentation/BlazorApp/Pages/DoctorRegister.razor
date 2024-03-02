@@ -1,0 +1,92 @@
+@page "/Doctor/Register"
+@using Domain.DTOs
+@using BlazorApp.Services
+@inject IAuthService authService
+@inject NavigationManager navMgr
+
+<AuthorizeView>
+    <NotAuthorized>
+        <body>
+        <div class="user">
+            <h3 class="user__title">Doctors registration</h3>
+
+            <form class="form">
+                <div class="form__group">
+                    <input type="text" placeholder="Username" class="form__input" @bind="userName"/>
+                </div>
+                <div class="form__group">
+                    <input type="text" placeholder="Full name" class="form__input" @bind="fullName"/>
+                </div>
+                <div class="form__group">
+                    <input type="text" placeholder="Specialization" class="form__input" @bind="specialization"/>
+                </div>
+                <div class="form__group">
+                    <input type="password" placeholder="Password" class="form__input" @bind="password"/>
+                </div>
+
+                <button class="registerbtn" type="button" @onclick="RegisterAsync">Register</button>
+
+            </form>
+            @*<div class="field">
+                <label>User name:</label>
+                <input type="text" @bind="userName"/>
+            </div>
+            <div class="field">
+                <label style="text-align: center">Password:</label>
+                <input type="password" @bind="password"/>
+            </div>
+            <div class="field">
+                <label style="text-align: center">Full name:</label>
+                <input type="text" @bind="password"/>
+            </div>
+            <div class="field">
+                <label style="text-align: center">Specialization:</label>
+                <input type="text" @bind="password"/>
+            </div>
+            *@
+
+            @if (!string.IsNullOrEmpty(errorLabel))
+            {
+                <div class="field">
+                    <label style="color: red">
+                        @errorLabel
+                    </label>
+                </div>
+            }
+
+        </div>
+        </body>
+    </NotAuthorized>
+    <Authorized>
+        <div class="user__title">
+            <h3>Hello, @context.User.Identity.Name</h3>
+        </div>
+        
+    </Authorized>
+</AuthorizeView>
+
+@code {
+    private string userName;
+    private string password;
+    private string fullName;
+    private string specialization;
+    private string errorLabel;
+
+    private async Task RegisterAsync()
+    {
+        errorLabel = "";
+        try
+        {
+            RegisterDoctorDto dto = new RegisterDoctorDto(userName, password, fullName, specialization);
+            
+            await authService.RegisterDoctorAsync(dto);
+            navMgr.NavigateTo("/");
+        }
+        catch (Exception e)
+        {
+            Console.WriteLine(e);
+            errorLabel = $"Error: {e.Message}";
+        }
+    }
+    
+}

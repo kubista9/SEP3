@@ -1,0 +1,49 @@
+GET localhost:8989/animals
+
+###
+
+GET localhost:8989/animals?dateOfArrival=2023-10-12
+
+###
+
+GET localhost:8989/animals?placeOfOrigin=Germany
+
+###
+
+POST localhost:8989/animals
+Content-Type: application/json
+
+{
+  "registrationNo": 1,
+  "dateOfArrival": "2023-10-11",
+  "name": "Cow",
+  "weight": 120,
+  "placeOfOrigin": "Germany"
+}
+
+###
+
+POST localhost:8989/animals
+Content-Type: application/json
+
+{
+  "registrationNo": 2,
+  "dateOfArrival": "2023-10-12",
+  "name": "Cow",
+  "weight": 120,
+  "placeOfOrigin": "Germany"
+}
+
+###
+
+GET localhost:8989/animals
+
+###
+
+GET localhost:8989/animals?dateOfArrival=2023-10-12
+
+###
+
+GET localhost:8989/animals?placeOfOrigin=Germany
+
+###

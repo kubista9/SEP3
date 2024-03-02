@@ -1,0 +1,46 @@
+@page "/Login"
+@using BlazorApp.Services
+@inject IAuthService authService
+@inject NavigationManager navMgr
+
+<AuthorizeView>
+    <NotAuthorized>
+        <body>
+        <div class="field">
+             <h3 class="user__title">Choose a login option</h3>
+            
+                <button class="loginbtn" @onclick="LoginPatient">Log-in as Patient</button>
+            
+            
+                <button class="loginbtn" @onclick="LoginDoctor">Log-in as Doctor</button>
+            
+            
+        </div>
+        </body>
+       
+    </NotAuthorized>
+    <Authorized>
+        <div class="card">
+            <h3>Hello, @context.User.Identity.Name</h3>
+        </div>
+    </Authorized>
+</AuthorizeView>
+
+@code{
+
+    private void LoginPatient()
+    {
+        navMgr.NavigateTo("/Patient/Login");
+    }
+
+    private void LoginDoctor()
+    {
+        navMgr.NavigateTo("/Doctor/Login");
+    }
+
+    
+}
+
+
+
+    

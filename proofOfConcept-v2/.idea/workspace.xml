@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="141c6db1-0c1f-4a16-a66f-746b68a081a8" name="Changes" comment="business logic" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/business" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2XTgGthNdDLHA4KwilFZkOKABXa" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "liberica-17",
+    "last_opened_file_path": "/Users/jakubkuka/Desktop/school/Third-semester/Sep3-Group5/proofOfConcept-v2/business/src/main/java/com/example/business/service",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/business/src/main/java/com/example/business/service" />
+      <recent name="$PROJECT_DIR$/business/src/main/java/com/example/business/repository" />
+      <recent name="$PROJECT_DIR$/business/src/main/java/com/example/business/entity" />
+      <recent name="$PROJECT_DIR$/business/src/main/java/com/example/business/controller" />
+      <recent name="$PROJECT_DIR$/logic/src/main/java/com/example/logic/service" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/businessLogic/src/main/java/org/example" />
+      <recent name="$PROJECT_DIR$/src/main/java/businessLogic" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.BusinessLogicV2Application">
+    <configuration name="BusinessApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="business" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.business.BusinessApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BusinessLogic2Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="businessLogic" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.businesslogic.BusinessLogic2Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BusinessLogicV2Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="businessLogic-v2" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.businesslogicv2.BusinessLogicV2Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HospitalApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="businessLogic-v2" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.businesslogicv2.HospitalApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LogicApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="serverLogic" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.logic.LogicApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="141c6db1-0c1f-4a16-a66f-746b68a081a8" name="Changes" comment="" />
+      <created>1698658392659</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1698658392659</updated>
+      <workItem from="1698658562157" duration="3795000" />
+      <workItem from="1698663580892" duration="2529000" />
+    </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <option name="closed" value="true" />
+      <created>1698658788252</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1698658788252</updated>
+    </task>
+    <task id="LOCAL-00002" summary="project structure">
+      <option name="closed" value="true" />
+      <created>1698659942557</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1698659942558</updated>
+    </task>
+    <task id="LOCAL-00003" summary="business logic">
+      <option name="closed" value="true" />
+      <created>1698661231089</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1698661231089</updated>
+    </task>
+    <task id="LOCAL-00004" summary="business logic">
+      <option name="closed" value="true" />
+      <created>1698661743325</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1698661743325</updated>
+    </task>
+    <task id="LOCAL-00005" summary="business logic">
+      <option name="closed" value="true" />
+      <created>1698664010514</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1698664010514</updated>
+    </task>
+    <task id="LOCAL-00006" summary="business logic">
+      <option name="closed" value="true" />
+      <created>1698664017339</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1698664017339</updated>
+    </task>
+    <task id="LOCAL-00007" summary="business logic">
+      <option name="closed" value="true" />
+      <created>1698664142648</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1698664142648</updated>
+    </task>
+    <task id="LOCAL-00008" summary="business logic">
+      <option name="closed" value="true" />
+      <created>1698664238541</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1698664238541</updated>
+    </task>
+    <task id="LOCAL-00009" summary="business logic">
+      <option name="closed" value="true" />
+      <created>1698666996679</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1698666996679</updated>
+    </task>
+    <task id="LOCAL-00010" summary="business logic">
+      <option name="closed" value="true" />
+      <created>1698667015459</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1698667015459</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit" />
+    <MESSAGE value="project structure" />
+    <MESSAGE value="business logic" />
+    <option name="LAST_COMMIT_MESSAGE" value="business logic" />
+  </component>
+</project>

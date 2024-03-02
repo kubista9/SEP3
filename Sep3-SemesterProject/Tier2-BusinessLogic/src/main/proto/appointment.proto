@@ -1,0 +1,59 @@
+syntax = "proto3";
+
+option java_multiple_files = true;
+option java_package = "via.sdj3.proofofconcept_v3.GrpcService.appointment";
+
+package appointment;
+
+service Appointment {
+	rpc CreateAsync (AppointmentObj) returns (AppointmentObj);
+	rpc GetByIdAsync (AppointmentId) returns (AppointmentObj);
+	rpc GetByDtoAsync (AppointmentDto) returns (AppointmentObj);
+	rpc UpdateAsync (AppointmentObj) returns (AppointmentResponse);
+	rpc DeleteAsync (AppointmentId) returns (AppointmentResponse);
+	rpc findAppointmentsForDoctor (RequestFindAppointmentsForDoctorObj) returns (AppointmentList);
+	rpc findAppointmentsForPatient (RequestFindAppointmentsForPatientObj) returns (AppointmentList);
+	rpc UpdateStatusDiagnosis (AppointmentISD) returns (AppointmentObj);
+}
+
+message AppointmentObj {
+	int32 id = 1;
+	int32 patient_id = 2;
+	int32 doctor_id = 3;
+	string date = 4;
+	string time = 5;
+	string diagnosis = 6;
+	bool status = 7;
+}
+
+message AppointmentId {
+	int32 id = 1;
+}
+
+message AppointmentDto {
+	string date = 1;
+	string time = 2;
+}
+
+message AppointmentResponse {
+	bool successful = 1;
+}
+
+message AppointmentISD {
+	int32 id = 1;
+	bool status = 2;
+	string diagnosis = 3;
+}
+
+message AppointmentList {
+	repeated AppointmentObj appointments = 1;
+}
+
+message RequestFindAppointmentsForDoctorObj{
+	string date = 1;
+	int32 id = 2;
+}
+message RequestFindAppointmentsForPatientObj{
+	string date = 1;
+	int32 id = 2;
+}

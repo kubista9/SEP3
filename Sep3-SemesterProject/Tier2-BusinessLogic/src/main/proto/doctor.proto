@@ -1,0 +1,49 @@
+syntax = "proto3";
+
+option java_multiple_files = true;
+option java_package = "via.sdj3.proofofconcept_v3.GrpcService.doctor";
+
+package doctor;
+
+service Doctor {
+	rpc CreateAsync (DoctorObj) returns (DoctorObj);
+	rpc GetAsync (DoctorId) returns (DoctorObj);
+	rpc UpdateAsync (DoctorObj) returns (DoctorResponse);
+	rpc DeleteAsync (DoctorId) returns (DoctorResponse);
+	rpc GetValidatedAsync (DoctorVoid) returns (DoctorList);
+	rpc LoginAsDoctor (DoctorLogin) returns (DoctorObj);
+	rpc GetByUsername (DoctorUsername) returns (DoctorObj);
+}
+
+message DoctorObj {
+	int32 id = 1;
+	string username = 2;
+	string password = 3;
+	string fullname = 4;
+	string specialization = 5;
+	bool validated = 6;
+}
+
+message DoctorUsername {
+	string username = 2;
+}
+
+message DoctorId {
+	int32 id = 1;
+}
+
+message DoctorResponse {
+	bool successful = 1;
+}
+
+message DoctorVoid {
+
+}
+
+message DoctorList {
+	repeated DoctorObj doctors = 1;
+}
+message DoctorLogin{
+	string username = 1;
+	string password = 2;
+}

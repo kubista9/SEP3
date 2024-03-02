@@ -1,0 +1,83 @@
+﻿@page "/DoctorResolveView/{id:int}"
+@using Domain.Models
+@using HttpClients.ClientInterfaces
+@using Domain.DTOs
+
+@inject IAppointmentService appointmentService
+@inject NavigationManager navMgr
+
+<div class="card">
+    @if (dto == null)
+    {
+        <label>Loading appointment data..</label>
+    }
+    else
+    {
+        <h3>Resolve appointment</h3>
+        <div class="form-group field">
+            <label>Diagnosis:</label>
+            <input type="text" @bind="dto.Diagnosis"/>
+        </div>
+        
+        <div class="form-group field">
+            <label>Is the appointment resolved?</label>
+            <select @bind="dto.Status">
+                <option>Choose</option>
+                <option value=true>true</option>
+                <option value=false>false</option>
+            </select>
+        </div>
+        
+        
+        <div class="button-row">
+            <button @onclick="UpdateAsync" class="acceptbtn">Update</button>
+        </div>
+    }
+    @if (!string.IsNullOrEmpty(msg))
+    {
+        <label style="color: red">@msg</label>
+    }
+</div>
+
+@code {
+    [Parameter]
+    public int Id { get; set; }
+    
+    private AppointmentResolveDto dto = null!;
+    private string msg = "";
+    
+    protected override async Task OnInitializedAsync()
+    {
+        
+        msg = "";
+        try
+        {
+            Appointment appointmentData = await appointmentService.GetByIdAsync(Id);
+
+            dto = new(Id)
+            {
+                Diagnosis = appointmentData.Diagnosis,
+                Status = appointmentData.Status
+            };
+        }
+        catch (Exception e)
+        {
+            Console.WriteLine(e);
+            msg = e.Message;
+        }
+    }
+    
+    private async Task UpdateAsync()
+    {
+        try
+        {
+            await appointmentService.UpdateAsync(dto);
+            navMgr.NavigateTo("/DoctorAppointmentsView");
+        }
+        catch (Exception e)
+        {
+            Console.WriteLine(e);
+            msg = e.Message;
+        }
+    }
+}

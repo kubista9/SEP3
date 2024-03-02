@@ -1,0 +1,38 @@
+syntax = "proto3";
+
+option csharp_namespace = "GrpcService";
+
+package patient;
+
+service Patient {
+  rpc CreateAsync (PatientObj) returns (PatientObj);
+  rpc GetAsync (PatientVoid) returns (PatientList);
+  rpc GetUser (Name) returns (PatientObj);
+  rpc LoginAsPatient (PatientLogin) returns (PatientObj);
+}
+
+
+message PatientObj {
+  int32 id = 1;
+  string name = 2;
+  string username = 3;
+  string password = 4;
+}
+
+
+message Name {
+  string name = 1;
+}
+
+message PatientVoid {
+  
+}
+
+message PatientList {
+  repeated PatientObj patients = 1;
+}
+
+message PatientLogin{
+  string username = 1;
+  string password = 2;
+}

@@ -1,0 +1,30 @@
+syntax = "proto3";
+
+option java_multiple_files = true;
+option java_package = "via.sdj3.proofofconcept_v3.GrpcService.patient";
+
+package patient;
+
+service Patient {
+  rpc CreateAsync (PatientObj) returns (PatientObj);
+  rpc GetUser (Name) returns (PatientObj);
+  rpc LoginAsPatient (PatientLogin) returns (PatientObj);
+}
+
+
+message PatientObj {
+  int32 id = 1;
+  string name = 2;
+  string username = 3;
+  string password = 4;
+}
+
+
+message Name {
+  string name = 1;
+}
+
+message PatientLogin{
+  string username = 1;
+  string password = 2;
+}

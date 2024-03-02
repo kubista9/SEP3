@@ -1,0 +1,102 @@
+C:/Users/Acer/RiderProjects/Tier3-DataAccess/EFC/bin/Debug/net7.0/EFC.deps.json
+C:/Users/Acer/RiderProjects/Tier3-DataAccess/EFC/bin/Debug/net7.0/EFC.runtimeconfig.json
+C:/Users/Acer/RiderProjects/Tier3-DataAccess/EFC/bin/Debug/net7.0/EFC.dll
+C:/Users/Acer/RiderProjects/Tier3-DataAccess/EFC/bin/Debug/net7.0/EFC.pdb
+C:/Users/Acer/RiderProjects/Tier3-DataAccess/EFC/bin/Debug/net7.0/Domain.dll
+C:/Users/Acer/RiderProjects/Tier3-DataAccess/EFC/bin/Debug/net7.0/Domain.pdb
+C:/Users/Acer/RiderProjects/Tier3-DataAccess/EFC/obj/Debug/net7.0/EFC.csproj.AssemblyReference.cache
+C:/Users/Acer/RiderProjects/Tier3-DataAccess/EFC/obj/Debug/net7.0/EFC.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Acer/RiderProjects/Tier3-DataAccess/EFC/obj/Debug/net7.0/EFC.AssemblyInfoInputs.cache
+C:/Users/Acer/RiderProjects/Tier3-DataAccess/EFC/obj/Debug/net7.0/EFC.AssemblyInfo.cs
+C:/Users/Acer/RiderProjects/Tier3-DataAccess/EFC/obj/Debug/net7.0/EFC.csproj.CoreCompileInputs.cache
+C:/Users/Acer/RiderProjects/Tier3-DataAccess/EFC/obj/Debug/net7.0/EFC.csproj.CopyComplete
+C:/Users/Acer/RiderProjects/Tier3-DataAccess/EFC/obj/Debug/net7.0/EFC.dll
+C:/Users/Acer/RiderProjects/Tier3-DataAccess/EFC/obj/Debug/net7.0/refint/EFC.dll
+C:/Users/Acer/RiderProjects/Tier3-DataAccess/EFC/obj/Debug/net7.0/EFC.pdb
+C:/Users/Acer/RiderProjects/Tier3-DataAccess/EFC/obj/Debug/net7.0/EFC.genruntimeconfig.cache
+C:/Users/Acer/RiderProjects/Tier3-DataAccess/EFC/obj/Debug/net7.0/ref/EFC.dll
+C:/Users/warsar/IdeaProjects/proofOfConcept_v4/Tier3-DataAccess/EFC/bin/Debug/net7.0/EFC.deps.json
+C:/Users/warsar/IdeaProjects/proofOfConcept_v4/Tier3-DataAccess/EFC/bin/Debug/net7.0/EFC.runtimeconfig.json
+C:/Users/warsar/IdeaProjects/proofOfConcept_v4/Tier3-DataAccess/EFC/bin/Debug/net7.0/EFC.dll
+C:/Users/warsar/IdeaProjects/proofOfConcept_v4/Tier3-DataAccess/EFC/bin/Debug/net7.0/EFC.pdb
+C:/Users/warsar/IdeaProjects/proofOfConcept_v4/Tier3-DataAccess/EFC/bin/Debug/net7.0/Domain.dll
+C:/Users/warsar/IdeaProjects/proofOfConcept_v4/Tier3-DataAccess/EFC/bin/Debug/net7.0/Domain.pdb
+C:/Users/warsar/IdeaProjects/proofOfConcept_v4/Tier3-DataAccess/EFC/obj/Debug/net7.0/EFC.csproj.AssemblyReference.cache
+C:/Users/warsar/IdeaProjects/proofOfConcept_v4/Tier3-DataAccess/EFC/obj/Debug/net7.0/EFC.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/warsar/IdeaProjects/proofOfConcept_v4/Tier3-DataAccess/EFC/obj/Debug/net7.0/EFC.AssemblyInfoInputs.cache
+C:/Users/warsar/IdeaProjects/proofOfConcept_v4/Tier3-DataAccess/EFC/obj/Debug/net7.0/EFC.AssemblyInfo.cs
+C:/Users/warsar/IdeaProjects/proofOfConcept_v4/Tier3-DataAccess/EFC/obj/Debug/net7.0/EFC.csproj.CoreCompileInputs.cache
+C:/Users/warsar/IdeaProjects/proofOfConcept_v4/Tier3-DataAccess/EFC/obj/Debug/net7.0/EFC.csproj.CopyComplete
+C:/Users/warsar/IdeaProjects/proofOfConcept_v4/Tier3-DataAccess/EFC/obj/Debug/net7.0/EFC.dll
+C:/Users/warsar/IdeaProjects/proofOfConcept_v4/Tier3-DataAccess/EFC/obj/Debug/net7.0/refint/EFC.dll
+C:/Users/warsar/IdeaProjects/proofOfConcept_v4/Tier3-DataAccess/EFC/obj/Debug/net7.0/EFC.pdb
+C:/Users/warsar/IdeaProjects/proofOfConcept_v4/Tier3-DataAccess/EFC/obj/Debug/net7.0/EFC.genruntimeconfig.cache
+C:/Users/warsar/IdeaProjects/proofOfConcept_v4/Tier3-DataAccess/EFC/obj/Debug/net7.0/ref/EFC.dll
+C:/Users/Acer/Downloads/proofOfConcept_v4/proofOfConcept_v4/Tier3-DataAccess/EFC/bin/Debug/net7.0/EFC.deps.json
+C:/Users/Acer/Downloads/proofOfConcept_v4/proofOfConcept_v4/Tier3-DataAccess/EFC/bin/Debug/net7.0/EFC.runtimeconfig.json
+C:/Users/Acer/Downloads/proofOfConcept_v4/proofOfConcept_v4/Tier3-DataAccess/EFC/bin/Debug/net7.0/EFC.dll
+C:/Users/Acer/Downloads/proofOfConcept_v4/proofOfConcept_v4/Tier3-DataAccess/EFC/bin/Debug/net7.0/EFC.pdb
+C:/Users/Acer/Downloads/proofOfConcept_v4/proofOfConcept_v4/Tier3-DataAccess/EFC/bin/Debug/net7.0/Domain.dll
+C:/Users/Acer/Downloads/proofOfConcept_v4/proofOfConcept_v4/Tier3-DataAccess/EFC/bin/Debug/net7.0/Domain.pdb
+C:/Users/Acer/Downloads/proofOfConcept_v4/proofOfConcept_v4/Tier3-DataAccess/EFC/obj/Debug/net7.0/EFC.csproj.AssemblyReference.cache
+C:/Users/Acer/Downloads/proofOfConcept_v4/proofOfConcept_v4/Tier3-DataAccess/EFC/obj/Debug/net7.0/EFC.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Acer/Downloads/proofOfConcept_v4/proofOfConcept_v4/Tier3-DataAccess/EFC/obj/Debug/net7.0/EFC.AssemblyInfoInputs.cache
+C:/Users/Acer/Downloads/proofOfConcept_v4/proofOfConcept_v4/Tier3-DataAccess/EFC/obj/Debug/net7.0/EFC.AssemblyInfo.cs
+C:/Users/Acer/Downloads/proofOfConcept_v4/proofOfConcept_v4/Tier3-DataAccess/EFC/obj/Debug/net7.0/EFC.csproj.CoreCompileInputs.cache
+C:/Users/Acer/Downloads/proofOfConcept_v4/proofOfConcept_v4/Tier3-DataAccess/EFC/obj/Debug/net7.0/EFC.csproj.CopyComplete
+C:/Users/Acer/Downloads/proofOfConcept_v4/proofOfConcept_v4/Tier3-DataAccess/EFC/obj/Debug/net7.0/EFC.dll
+C:/Users/Acer/Downloads/proofOfConcept_v4/proofOfConcept_v4/Tier3-DataAccess/EFC/obj/Debug/net7.0/refint/EFC.dll
+C:/Users/Acer/Downloads/proofOfConcept_v4/proofOfConcept_v4/Tier3-DataAccess/EFC/obj/Debug/net7.0/EFC.pdb
+C:/Users/Acer/Downloads/proofOfConcept_v4/proofOfConcept_v4/Tier3-DataAccess/EFC/obj/Debug/net7.0/EFC.genruntimeconfig.cache
+C:/Users/Acer/Downloads/proofOfConcept_v4/proofOfConcept_v4/Tier3-DataAccess/EFC/obj/Debug/net7.0/ref/EFC.dll
+C:/Users/37062/Documents/GitHub/proofOfConcept_v4/Tier3-DataAccess/EFC/bin/Debug/net7.0/EFC.deps.json
+C:/Users/37062/Documents/GitHub/proofOfConcept_v4/Tier3-DataAccess/EFC/bin/Debug/net7.0/EFC.runtimeconfig.json
+C:/Users/37062/Documents/GitHub/proofOfConcept_v4/Tier3-DataAccess/EFC/bin/Debug/net7.0/EFC.dll
+C:/Users/37062/Documents/GitHub/proofOfConcept_v4/Tier3-DataAccess/EFC/bin/Debug/net7.0/EFC.pdb
+C:/Users/37062/Documents/GitHub/proofOfConcept_v4/Tier3-DataAccess/EFC/bin/Debug/net7.0/Domain.dll
+C:/Users/37062/Documents/GitHub/proofOfConcept_v4/Tier3-DataAccess/EFC/bin/Debug/net7.0/Domain.pdb
+C:/Users/37062/Documents/GitHub/proofOfConcept_v4/Tier3-DataAccess/EFC/obj/Debug/net7.0/EFC.csproj.AssemblyReference.cache
+C:/Users/37062/Documents/GitHub/proofOfConcept_v4/Tier3-DataAccess/EFC/obj/Debug/net7.0/EFC.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/37062/Documents/GitHub/proofOfConcept_v4/Tier3-DataAccess/EFC/obj/Debug/net7.0/EFC.AssemblyInfoInputs.cache
+C:/Users/37062/Documents/GitHub/proofOfConcept_v4/Tier3-DataAccess/EFC/obj/Debug/net7.0/EFC.AssemblyInfo.cs
+C:/Users/37062/Documents/GitHub/proofOfConcept_v4/Tier3-DataAccess/EFC/obj/Debug/net7.0/EFC.csproj.CoreCompileInputs.cache
+C:/Users/37062/Documents/GitHub/proofOfConcept_v4/Tier3-DataAccess/EFC/obj/Debug/net7.0/EFC.csproj.CopyComplete
+C:/Users/37062/Documents/GitHub/proofOfConcept_v4/Tier3-DataAccess/EFC/obj/Debug/net7.0/EFC.dll
+C:/Users/37062/Documents/GitHub/proofOfConcept_v4/Tier3-DataAccess/EFC/obj/Debug/net7.0/refint/EFC.dll
+C:/Users/37062/Documents/GitHub/proofOfConcept_v4/Tier3-DataAccess/EFC/obj/Debug/net7.0/EFC.pdb
+C:/Users/37062/Documents/GitHub/proofOfConcept_v4/Tier3-DataAccess/EFC/obj/Debug/net7.0/EFC.genruntimeconfig.cache
+C:/Users/37062/Documents/GitHub/proofOfConcept_v4/Tier3-DataAccess/EFC/obj/Debug/net7.0/ref/EFC.dll
+C:/Users/darja/Documents/FROM OTHER DOCUMENTS FOLDER/GitHub/proofOfConcept_v4/proofOfConcept_v4/proofOfConcept_v4/Tier3-DataAccess/EFC/bin/Debug/net7.0/EFC.deps.json
+C:/Users/darja/Documents/FROM OTHER DOCUMENTS FOLDER/GitHub/proofOfConcept_v4/proofOfConcept_v4/proofOfConcept_v4/Tier3-DataAccess/EFC/bin/Debug/net7.0/EFC.runtimeconfig.json
+C:/Users/darja/Documents/FROM OTHER DOCUMENTS FOLDER/GitHub/proofOfConcept_v4/proofOfConcept_v4/proofOfConcept_v4/Tier3-DataAccess/EFC/bin/Debug/net7.0/EFC.dll
+C:/Users/darja/Documents/FROM OTHER DOCUMENTS FOLDER/GitHub/proofOfConcept_v4/proofOfConcept_v4/proofOfConcept_v4/Tier3-DataAccess/EFC/bin/Debug/net7.0/EFC.pdb
+C:/Users/darja/Documents/FROM OTHER DOCUMENTS FOLDER/GitHub/proofOfConcept_v4/proofOfConcept_v4/proofOfConcept_v4/Tier3-DataAccess/EFC/bin/Debug/net7.0/Domain.dll
+C:/Users/darja/Documents/FROM OTHER DOCUMENTS FOLDER/GitHub/proofOfConcept_v4/proofOfConcept_v4/proofOfConcept_v4/Tier3-DataAccess/EFC/bin/Debug/net7.0/Domain.pdb
+C:/Users/darja/Documents/FROM OTHER DOCUMENTS FOLDER/GitHub/proofOfConcept_v4/proofOfConcept_v4/proofOfConcept_v4/Tier3-DataAccess/EFC/obj/Debug/net7.0/EFC.csproj.AssemblyReference.cache
+C:/Users/darja/Documents/FROM OTHER DOCUMENTS FOLDER/GitHub/proofOfConcept_v4/proofOfConcept_v4/proofOfConcept_v4/Tier3-DataAccess/EFC/obj/Debug/net7.0/EFC.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/darja/Documents/FROM OTHER DOCUMENTS FOLDER/GitHub/proofOfConcept_v4/proofOfConcept_v4/proofOfConcept_v4/Tier3-DataAccess/EFC/obj/Debug/net7.0/EFC.AssemblyInfoInputs.cache
+C:/Users/darja/Documents/FROM OTHER DOCUMENTS FOLDER/GitHub/proofOfConcept_v4/proofOfConcept_v4/proofOfConcept_v4/Tier3-DataAccess/EFC/obj/Debug/net7.0/EFC.AssemblyInfo.cs
+C:/Users/darja/Documents/FROM OTHER DOCUMENTS FOLDER/GitHub/proofOfConcept_v4/proofOfConcept_v4/proofOfConcept_v4/Tier3-DataAccess/EFC/obj/Debug/net7.0/EFC.csproj.CoreCompileInputs.cache
+C:/Users/darja/Documents/FROM OTHER DOCUMENTS FOLDER/GitHub/proofOfConcept_v4/proofOfConcept_v4/proofOfConcept_v4/Tier3-DataAccess/EFC/obj/Debug/net7.0/EFC.csproj.CopyComplete
+C:/Users/darja/Documents/FROM OTHER DOCUMENTS FOLDER/GitHub/proofOfConcept_v4/proofOfConcept_v4/proofOfConcept_v4/Tier3-DataAccess/EFC/obj/Debug/net7.0/EFC.dll
+C:/Users/darja/Documents/FROM OTHER DOCUMENTS FOLDER/GitHub/proofOfConcept_v4/proofOfConcept_v4/proofOfConcept_v4/Tier3-DataAccess/EFC/obj/Debug/net7.0/refint/EFC.dll
+C:/Users/darja/Documents/FROM OTHER DOCUMENTS FOLDER/GitHub/proofOfConcept_v4/proofOfConcept_v4/proofOfConcept_v4/Tier3-DataAccess/EFC/obj/Debug/net7.0/EFC.pdb
+C:/Users/darja/Documents/FROM OTHER DOCUMENTS FOLDER/GitHub/proofOfConcept_v4/proofOfConcept_v4/proofOfConcept_v4/Tier3-DataAccess/EFC/obj/Debug/net7.0/EFC.genruntimeconfig.cache
+C:/Users/darja/Documents/FROM OTHER DOCUMENTS FOLDER/GitHub/proofOfConcept_v4/proofOfConcept_v4/proofOfConcept_v4/Tier3-DataAccess/EFC/obj/Debug/net7.0/ref/EFC.dll
+/Users/jakubkuka/Desktop/school/ThirdSemester/proofOfConcept_v4/Sep3-SemesterProject/Tier3-DataAccess/EFC/bin/Debug/net7.0/EFC.deps.json
+/Users/jakubkuka/Desktop/school/ThirdSemester/proofOfConcept_v4/Sep3-SemesterProject/Tier3-DataAccess/EFC/bin/Debug/net7.0/EFC.runtimeconfig.json
+/Users/jakubkuka/Desktop/school/ThirdSemester/proofOfConcept_v4/Sep3-SemesterProject/Tier3-DataAccess/EFC/bin/Debug/net7.0/EFC.dll
+/Users/jakubkuka/Desktop/school/ThirdSemester/proofOfConcept_v4/Sep3-SemesterProject/Tier3-DataAccess/EFC/bin/Debug/net7.0/EFC.pdb
+/Users/jakubkuka/Desktop/school/ThirdSemester/proofOfConcept_v4/Sep3-SemesterProject/Tier3-DataAccess/EFC/bin/Debug/net7.0/Domain.dll
+/Users/jakubkuka/Desktop/school/ThirdSemester/proofOfConcept_v4/Sep3-SemesterProject/Tier3-DataAccess/EFC/bin/Debug/net7.0/Domain.pdb
+/Users/jakubkuka/Desktop/school/ThirdSemester/proofOfConcept_v4/Sep3-SemesterProject/Tier3-DataAccess/EFC/obj/Debug/net7.0/EFC.csproj.AssemblyReference.cache
+/Users/jakubkuka/Desktop/school/ThirdSemester/proofOfConcept_v4/Sep3-SemesterProject/Tier3-DataAccess/EFC/obj/Debug/net7.0/EFC.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jakubkuka/Desktop/school/ThirdSemester/proofOfConcept_v4/Sep3-SemesterProject/Tier3-DataAccess/EFC/obj/Debug/net7.0/EFC.AssemblyInfoInputs.cache
+/Users/jakubkuka/Desktop/school/ThirdSemester/proofOfConcept_v4/Sep3-SemesterProject/Tier3-DataAccess/EFC/obj/Debug/net7.0/EFC.AssemblyInfo.cs
+/Users/jakubkuka/Desktop/school/ThirdSemester/proofOfConcept_v4/Sep3-SemesterProject/Tier3-DataAccess/EFC/obj/Debug/net7.0/EFC.csproj.CoreCompileInputs.cache
+/Users/jakubkuka/Desktop/school/ThirdSemester/proofOfConcept_v4/Sep3-SemesterProject/Tier3-DataAccess/EFC/obj/Debug/net7.0/EFC.csproj.CopyComplete
+/Users/jakubkuka/Desktop/school/ThirdSemester/proofOfConcept_v4/Sep3-SemesterProject/Tier3-DataAccess/EFC/obj/Debug/net7.0/EFC.dll
+/Users/jakubkuka/Desktop/school/ThirdSemester/proofOfConcept_v4/Sep3-SemesterProject/Tier3-DataAccess/EFC/obj/Debug/net7.0/refint/EFC.dll
+/Users/jakubkuka/Desktop/school/ThirdSemester/proofOfConcept_v4/Sep3-SemesterProject/Tier3-DataAccess/EFC/obj/Debug/net7.0/EFC.pdb
+/Users/jakubkuka/Desktop/school/ThirdSemester/proofOfConcept_v4/Sep3-SemesterProject/Tier3-DataAccess/EFC/obj/Debug/net7.0/EFC.genruntimeconfig.cache
+/Users/jakubkuka/Desktop/school/ThirdSemester/proofOfConcept_v4/Sep3-SemesterProject/Tier3-DataAccess/EFC/obj/Debug/net7.0/ref/EFC.dll
